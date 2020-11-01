@@ -1,0 +1,44 @@
+[
+    {
+        "color": "card-orange",
+        "title": "Lorem ipsum dolor",
+        "date": "2020-10-09 20:23",
+        "note": "Risus feugiat in ante metus. Facilisis leo vel fringilla est ullamcorper. Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus nullam. Vitae congue eu consequat ac."
+    },
+    {
+        "color": "card-blue",
+        "title": "Sem integer vitae justo",
+        "date": "2020-11-02 7:56",
+        "note": "Diam quam nulla porttitor massa. Diam maecenas ultricies mi eget mauris pharetra et ultrices."
+    },
+    {
+        "color": "card-green",
+        "title": "Enim sed!",
+        "date": "2020-07-23 12:43",
+        "note": "Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Dolor purus non enim praesent elementum facilisis leo. Ultricies integer quis auctor elit sed vulputate. In nulla posuere sollicitudin aliquam ultrices."
+    },
+    {
+        "color": "card-yellow",
+        "title": "Sit amet massa vitae",
+        "date": "2020-12-30 22:12",
+        "note": "Ac turpis egestas sed tempus urna. Non arcu risus quis varius quam quisque id. "
+    },
+    {
+        "color": "card-orange",
+        "title": "Id diam vel quam",
+        "date": "2020-10-09 10:16",
+        "note": "Scelerisque fermentum dui faucibus in ornare quam viverra. Eros donec ac odio tempor orci dapibus. Ut tortor pretium viverra suspendisse potenti nullam ac. Eget mi proin sed libero."
+    },
+    {
+        "color": "card-blue",
+        "title": "Odio eu feugiat",
+        "date": "2020-10-23 05:30",
+        "note": "Non quam lacus suspendisse faucibus interdum posuere. Orci a scelerisque purus semper eget duis. Suscipit adipiscing bibendum est ultricies integer quis auctor elit sed. A pellentesque sit amet porttitor eget. "
+    },
+    {
+        "color": "card-yellow",
+        "title": "Ut placerat orci nulla",
+        "date": "2020-02-16 07:05",
+        "note": "Nibh praesent tristique magna sit. Commodo quis imperdiet massa tincidunt nunc pulvinar. Rhoncus est pellentesque elit ullamcorper dignissim cras. "
+    }
+]
